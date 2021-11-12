@@ -1,4 +1,4 @@
-# # Classification Model for Iris Dataset 
+# Classification Model for Iris Dataset 
 
 *Saimat Balabekova* 
 
